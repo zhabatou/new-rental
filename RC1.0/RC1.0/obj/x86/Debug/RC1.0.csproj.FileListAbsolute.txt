@@ -1,0 +1,10 @@
+D:\code\软件工程\RC1.0\RC1.0\bin\Debug\RC1.0.exe
+D:\code\软件工程\RC1.0\RC1.0\bin\Debug\RC1.0.pdb
+D:\code\软件工程\RC1.0\RC1.0\obj\x86\Debug\RC1._0.Form1.resources
+D:\code\软件工程\RC1.0\RC1.0\obj\x86\Debug\RC1._0.Properties.Resources.resources
+D:\code\软件工程\RC1.0\RC1.0\obj\x86\Debug\RC1.0.csproj.GenerateResource.Cache
+D:\code\软件工程\RC1.0\RC1.0\obj\x86\Debug\RC1.0.exe
+D:\code\软件工程\RC1.0\RC1.0\obj\x86\Debug\RC1.0.pdb
+D:\code\软件工程\RC1.0\RC1.0\obj\x86\Debug\RC1._0.CarMana.AddCar.resources
+D:\code\软件工程\RC1.0\RC1.0\obj\x86\Debug\RC1._0.CarInfo.CarInfo.resources
+D:\code\软件工程\RC1.0\RC1.0\obj\x86\Debug\RC1._0.Main.MainForm.resources
